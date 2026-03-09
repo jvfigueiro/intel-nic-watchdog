@@ -23,7 +23,7 @@ This watchdog script runs silently via `cron` and acts as an automated self-heal
 
 1. Clone this repository to your server:
 ```bash
-git clone [https://github.com/yourusername/intel-nic-watchdog.git](https://github.com/yourusername/intel-nic-watchdog.git)
+git clone [https://github.com/jvfigueiro/intel-nic-watchdog.git](https://github.com/jvfigueiro/intel-nic-watchdog.git)
 cd intel-nic-watchdog
 ```
 
@@ -65,3 +65,4 @@ tail -f /var/log/watchdog_rede.log
 ## ⚖️ License
 
 MIT License. Feel free to use, modify, and distribute this script.
+
